@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/flask-redis-app:latest
+        tags: rajul07/flask-redis-app:latest
